@@ -14,7 +14,7 @@
     "@babel/node": "7.7.4",
     "@babel/preset-env": "7.7.4",
     "dotenv": "8.2.0",
-    "lodash": "4.17.15",
+    "lodash": "4.17.21",
     "socks5-https-client": "1.2.1",
     "telegraf": "3.34.1"
   },
